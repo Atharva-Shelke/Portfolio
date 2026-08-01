@@ -1,4 +1,4 @@
-/*==================================================
+﻿/*==================================================
   GOOGLE FONT
 ==================================================*/
 
@@ -218,7 +218,7 @@ section {
 }
 
 .header .container {
-  height: 80px;
+  height: 60px;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -275,7 +275,7 @@ section {
 }
 
 .resume-button {
-  padding: 12px 26px;
+  padding: 8px 16px;
   border-radius: 999px;
   background: var(--primary-color);
   color: #000;
